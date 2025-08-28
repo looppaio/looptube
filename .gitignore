@@ -1,0 +1,10 @@
+.venv/
+.env
+**.ruff_cache/
+**/__pycache__/
+todo.md
+**/.DS_Store
+**/.ipynb_checkpoints/
+**/.pytest_cache/
+**test.py
+**.looptube/
