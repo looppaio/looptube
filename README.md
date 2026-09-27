@@ -1,6 +1,6 @@
 # Looptube
 
-A lightweight, fast, and reliable Python library for performing machine learning and artificial intelligence tasks on YouTube videos.
+A lightweight, fast, and reliable Python library for performing machine learning and artificial intelligence tasks (Video Intelligence) on YouTube videos.
 
 ## Overview 
 
